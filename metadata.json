@@ -1,0 +1,6 @@
+{
+  "name": "Microsoft Workforce Insights - AI Workforce Planning Prototype",
+  "description": "A behavioural intervention prototype for Microsoft Workforce Insights exploring how managers plan workforce evolution under AI disruption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
